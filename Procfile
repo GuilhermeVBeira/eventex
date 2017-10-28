@@ -1,0 +1,1 @@
+web: gunicorn exentex.wsgi --log-file -
